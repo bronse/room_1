@@ -1,1 +1,4 @@
-# room_1
+room_1
+======
+
+You wake up in a room.
